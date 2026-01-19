@@ -5,14 +5,15 @@ I'm José (ホセ), aka **mediotaku**, a mobile engineer from Spain <img src="ht
 - As you may have guessed, I like phones..**shocker**,
 - but I also like geography and maps..📍🗺️
 - convicted to eternally learn Japanese :/
+- my repos are all about those topics
 
      
 <img width="30%" height="30%" alt="Screenshot 2026-01-20 at 02 15 29" src="https://github.com/user-attachments/assets/70b1129a-b3b1-4a4a-87eb-1dc8d883df49" />  
 
-<sub>trivia: did you know that there is an abandoned platform in Harajuku sta reserved for the imperial family...</sub>   
+<sub>trivia: did you know that there is an abandoned platform in Harajuku sta reserved only for the imperial family..</sub>   
 
   
-  Nice to meet you and thank you for visiting my profile🤝🏻.  
+ Nice to meet you and thanks for visiting my profile🤝🏻.  
 Please share your hyperfixations with me:
 🐦 [twitter](https://x.com/mediotaku) ℹ️ [linkedin](https://www.linkedin.com/in/mediotaku/) 
 
