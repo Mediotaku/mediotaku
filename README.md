@@ -13,7 +13,7 @@ I'm José (ホセ), aka **mediotaku**, a mobile engineer from Spain <img src="ht
 <sub>trivia: did you know that there is an abandoned platform in Harajuku sta reserved only for the imperial family..</sub>   
 
   
- Nice to meet you and thanks for visiting my profile🤝🏻.  
+ Nice to meet you and thanks for stalking my profile 🤝🏻.  
 Please share your hyperfixations with me:
 🐦 [twitter](https://x.com/mediotaku) ℹ️ [linkedin](https://www.linkedin.com/in/mediotaku/) 
 
