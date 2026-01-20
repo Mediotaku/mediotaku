@@ -7,13 +7,18 @@ I'm José (ホセ), aka **mediotaku**, a mobile engineer from Spain <img src="ht
 - convicted to eternally learn Japanese :/
 - my repos are all about those topics
 
-     
-<img width="30%" height="30%" alt="Screenshot 2026-01-20 at 02 15 29" src="https://github.com/user-attachments/assets/70b1129a-b3b1-4a4a-87eb-1dc8d883df49" />  
+<picture>
+  <source media="(prefers-color-scheme: dark)" width="30%" height="30% srcset="https://github.com/user-attachments/assets/c82dbf85-56b0-4bd9-af3f-f634b1906304">
+  <source media="(prefers-color-scheme: light)" width="30%" height="30% srcset="https://github.com/user-attachments/assets/70b1129a-b3b1-4a4a-87eb-1dc8d883df49">
+  <img width="32%" height="32% alt="Shows a black version in dark color mode and a white one in light color mode." src="https://github.com/user-attachments/assets/70b1129a-b3b1-4a4a-87eb-1dc8d883df49">
+</picture>
+
 
 <sub>trivia: did you know that there is an abandoned platform in Harajuku sta reserved only for the imperial family..</sub>   
 
   
  Nice to meet you and thanks for stalking my profile 🤝🏻.  
 Please share your hyperfixations with me:
-🐦 [twitter](https://x.com/mediotaku) ℹ️ [linkedin](https://www.linkedin.com/in/mediotaku/) 
+🐦 [twitter](https://x.com/mediotaku) ℹ️ [linkedin](https://www.linkedin.com/in/mediotaku/)  
+Or you can meet me regularly in places like: 💙 [flutter Tokyo](https://flutter-jp.connpass.com/) 📱 [mobile dev Japan](https://mobiledev-japan.connpass.com/)
 
