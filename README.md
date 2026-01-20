@@ -8,8 +8,7 @@ I'm José (ホセ), aka **mediotaku**, a mobile engineer from Spain <img src="ht
 - my repos are all about those topics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" width="30%" height="30% srcset="https://github.com/user-attachments/assets/c82dbf85-56b0-4bd9-af3f-f634b1906304">
-  <source media="(prefers-color-scheme: light)" width="30%" height="30% srcset="https://github.com/user-attachments/assets/70b1129a-b3b1-4a4a-87eb-1dc8d883df49">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c82dbf85-56b0-4bd9-af3f-f634b1906304">
   <img width="32%" height="32% alt="Shows a black version in dark color mode and a white one in light color mode." src="https://github.com/user-attachments/assets/70b1129a-b3b1-4a4a-87eb-1dc8d883df49">
 </picture>
 
