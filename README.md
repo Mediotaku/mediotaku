@@ -5,7 +5,8 @@ I'm José (ホセ), aka **mediotaku**, a mobile engineer from Spain <img src="ht
 - As you may have guessed, I like phones..**shocker**,
 - but I also like geography and maps..📍🗺️
 - convicted to eternally learn Japanese :/
-- my repos are all about those topics
+- my repos are all about those topics and
+  some little games :)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7831e0db-c488-487f-804c-ac6311d68daa">
